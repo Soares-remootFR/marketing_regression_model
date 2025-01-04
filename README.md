@@ -1,7 +1,8 @@
 # marketing_regression_model
-Modelo de predição de valores para estimar o retorno de vendas.
 
 Modelo de Regressão para Marketing
+
+Modelo de predição de valores para estimar o retorno de vendas.
 
 Contexto - Introdução
 
